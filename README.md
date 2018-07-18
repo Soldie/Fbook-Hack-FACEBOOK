@@ -4,5 +4,5 @@
 
 USAGE-:
 
-Linux -: $python fbook.py
-Termux-: $python2 fbook.py
+1)Linux -: $python fbook.py
+2)Termux-: $python2 fbook.py
