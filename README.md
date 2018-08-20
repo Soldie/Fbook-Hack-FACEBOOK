@@ -4,7 +4,6 @@
 
 USAGE-:
 
-1) Linux  -: $python fbook.py
-2) Termux-: $python2 fbook.py
+`$ python fbook.py`
 
 ![memek](https://github.com/Ranginang67/Fbook/blob/master/fbook.png)
