@@ -1,6 +1,6 @@
 # Fbook
 
-# Fbook, is a tool to hack facebook account using brute force method, This tool works because it has been tested :)
+# Fbook, is a tool for hack facebook account using brute force method, This tool works because it has been tested :)
 
 USAGE-:
 
