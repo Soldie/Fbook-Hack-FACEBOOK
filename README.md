@@ -11,5 +11,5 @@ USAGE-:
 
 <hr>
 
-|[here](https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ)
+|[YouTube](https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ)
 |
